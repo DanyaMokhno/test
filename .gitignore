@@ -1,6 +1,6 @@
-.test2
-.test
-.DS_Store
+/.test2
+/.test
+/.DS_Store
 /hash_table
 /.idea
 /.vscode
