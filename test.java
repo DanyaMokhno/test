@@ -15,6 +15,7 @@ public class test{
         int phone = map.get("iphone");
         System.out.println(phone);
         System.out.println(map.hashCode());
+	System.out.println("hello\n");
 
     }
 }
