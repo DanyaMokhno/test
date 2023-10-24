@@ -161,3 +161,6 @@ x = {-b \pm \sqrt{b^2-4ac} \over 2a}
 $$
 
 $ f(x) = kx+b$
+
+
+0
